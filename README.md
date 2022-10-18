@@ -1,2 +1,2 @@
 # mynodelearning
-Learning node js
+Learning node js and git
